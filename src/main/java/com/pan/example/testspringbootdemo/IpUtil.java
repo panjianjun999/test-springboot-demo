@@ -5,7 +5,7 @@ import java.net.UnknownHostException;
 
 import javax.servlet.http.HttpServletRequest;
 /**
-* 获取ip的工具3
+* 获取ip的工具4
 */
 public class IpUtil {
     public static String getIpAddr(HttpServletRequest request) {
